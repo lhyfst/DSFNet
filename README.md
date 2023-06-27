@@ -40,4 +40,3 @@ trimesh                   3.22.1
 
 ## Acknowledgements
 We especially thank the contributors of the [SADRNet](https://github.com/MCG-NJU/SADRNet) codebase for providing helpful code.
->>>>>>> 9f589b8086269ef600a7587a0964fddba335a758
