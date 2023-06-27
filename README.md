@@ -2,6 +2,7 @@
 
 Paper link: [https://arxiv.org/abs/2305.11522](https://arxiv.org/abs/2305.11522)
 Project link: [https://lhyfst.github.io/dsfnet/](https://lhyfst.github.io/dsfnet/)
+Video link: [https://www.youtube.com/watch?v=tNcI-1Y9FW8](https://www.youtube.com/watch?v=tNcI-1Y9FW8)
 
 ## Requirements
 ```
