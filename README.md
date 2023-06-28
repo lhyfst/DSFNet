@@ -1,6 +1,6 @@
 # DSFNet
 
-Paper link: [https://arxiv.org/abs/2305.11522](https://arxiv.org/abs/2305.11522)
+Paper link: [https://arxiv.org/abs/2305.11522](https://arxiv.org/abs/2305.11522)  
 Project link: [https://lhyfst.github.io/dsfnet/](https://lhyfst.github.io/dsfnet/)
 
 ## Requirements
@@ -17,7 +17,7 @@ torchvision               0.8.2
 tqdm                      4.64.1
 trimesh                   3.22.1
 ```
-
+You can easily prepare the conda environment by ```conda create --name DSFNet --file requirements.txt```
 
 ## Prepare
 
